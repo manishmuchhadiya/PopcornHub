@@ -2,7 +2,7 @@
 
 A movie search app built with React, using the OMDB API.
 
-![App Screenshot](<img width="1351" height="3785" alt="popcornhub-manish-dev netlify app_" src="https://github.com/user-attachments/assets/cd46f6c7-bfbb-45da-998e-fefd625f7508" />
+[App Screenshot](<img width="1351" height="3785" alt="popcornhub-manish-dev netlify app_" src="https://github.com/user-attachments/assets/cd46f6c7-bfbb-45da-998e-fefd625f7508" />
 )
 
 ## 🚀 Live Demo
